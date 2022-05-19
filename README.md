@@ -13,5 +13,9 @@
 ![step6](https://user-images.githubusercontent.com/103019032/169231131-768dbe59-c138-4a1f-8285-34f20e1f6337.png)
 - #### In this section, we can add storage or volume for machine,But below in the image,aws providing upto 30gb space for free,and click on the tag in the next step
 ![step7](https://user-images.githubusercontent.com/103019032/169232870-70e06e5c-5064-4497-99c5-aa3aed825bf3.png)
-- In this section,we can name of instances,it is not mandatory,it is optional,you can create or not,and click on the security group in the next step.
+- #### In this section,we can name of instances,it is not mandatory,it is optional,you can create or not,and click on the security group in the next step.
 ![step8](https://user-images.githubusercontent.com/103019032/169259905-0fa66db3-1744-4fad-b028-b8468659c7c4.png)
+- #### In this section, create security group,you can can add rule as per your need.
+![step9](https://user-images.githubusercontent.com/103019032/169262625-576101c8-fdbb-4ce9-939d-992fec4c8fcc.png)
+- #### In this section,it show all the configuration,if you want to any changes or edit you can do it.
+![step10](https://user-images.githubusercontent.com/103019032/169264245-56ca840b-d11d-420d-bdea-818fa23a75fe.PNG)
