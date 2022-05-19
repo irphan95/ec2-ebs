@@ -1,4 +1,4 @@
-## ec2-ebs
+## EC2
 - #### Go to compute option and click on ec2.You can also search ec2 in search bar.
 ![step1](https://user-images.githubusercontent.com/103019032/169222536-e3b20c26-de43-4751-880c-e3a19bd6dfee.png)
 - #### Go to the next step, click on the instances.
@@ -19,3 +19,29 @@
 ![step9](https://user-images.githubusercontent.com/103019032/169262625-576101c8-fdbb-4ce9-939d-992fec4c8fcc.png)
 - #### In this section,it show all the configuration,if you want to any changes or edit you can do it.
 ![step10](https://user-images.githubusercontent.com/103019032/169264245-56ca840b-d11d-420d-bdea-818fa23a75fe.PNG)
+- #### After completing the review step,Key pair allow connect to instance securely.
+![step11](https://user-images.githubusercontent.com/103019032/169264772-b7ee1cf1-649d-46a0-a026-fec6e35f9fbe.PNG)
+- #### After downloading the key pair,click on the launch instance.
+![step12](https://user-images.githubusercontent.com/103019032/169265768-12a5410e-7bf7-48f7-a64e-8dad07617fdf.png)
+- #### We can see the status,your instances now launching.
+![step13](https://user-images.githubusercontent.com/103019032/169266044-0d6abc94-9220-402c-a24c-0e7cca5f7292.PNG)
+- #### Click on the view instances
+![step14](https://user-images.githubusercontent.com/103019032/169266618-d645cfb2-d016-4569-b5cb-09374d48cba9.png)
+- #### After view instances,you can see the details of instances,status is initialized,after some time it will be checked passed.
+![step15](https://user-images.githubusercontent.com/103019032/169267145-bd9ceed1-aa2b-4b73-9ea6-c729a098be87.png)
+- #### After some time,We can see, status is checks passed.
+![step16](https://user-images.githubusercontent.com/103019032/169267856-972b4b74-6453-4817-a8af-d5c03241264c.png)
+- #### In status checks, 2/2 checks passed,firstly system reachability passed check passed and second is instance reachability passed
+![step17](https://user-images.githubusercontent.com/103019032/169281921-f8ec7531-369b-47c1-a2f2-0fe9b6b11f24.png)
+- #### click on connect,instance is ready for use.
+![step18](https://user-images.githubusercontent.com/103019032/169282777-2ed4f36f-f2bd-40f5-9cda-d94149315746.png)
+- #### you can use both GUI and CLI.
+![step19](https://user-images.githubusercontent.com/103019032/169283045-6e87d3ca-10f3-49ab-9cc2-0c44271bdd26.PNG)
+## EBS
+- #### The next is Elastic Block Storage attach volume in EC2.
+![step20](https://user-images.githubusercontent.com/103019032/169283827-b192ceb9-fbb8-48f6-8fb0-1bfd941953ce.png)
+
+
+
+
+
