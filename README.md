@@ -9,3 +9,9 @@
 ![step4](https://user-images.githubusercontent.com/103019032/169224912-38e6d80f-9487-497e-8510-e0a47d6560df.png)
 - #### Go the next option,and select instance type,if you want extra ram,cpu and other thing,then aws will charges,if don't want pay then select free tier,and click on the the configure instance details in the next step.
 ![step5](https://user-images.githubusercontent.com/103019032/169226677-10e9f20e-db0c-4ecc-867c-cab8e17070bb.png)
+- #### In configure instance,we configure about instance,network,subnet and other things,and click on the storage in the next step.
+![step6](https://user-images.githubusercontent.com/103019032/169231131-768dbe59-c138-4a1f-8285-34f20e1f6337.png)
+- #### In this section, we can add storage or volume for machine,But below in the image,aws providing upto 30gb space for free,and click on the tag in the next step
+![step7](https://user-images.githubusercontent.com/103019032/169232870-70e06e5c-5064-4497-99c5-aa3aed825bf3.png)
+- In this section,we can name of instances,it is not mandatory,it is optional,you can create or not,and click on the security group in the next step.
+![step8](https://user-images.githubusercontent.com/103019032/169259905-0fa66db3-1744-4fad-b028-b8468659c7c4.png)
