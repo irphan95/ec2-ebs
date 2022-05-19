@@ -40,6 +40,16 @@
 ## EBS
 - #### The next is Elastic Block Storage attach volume in EC2.
 ![step20](https://user-images.githubusercontent.com/103019032/169283827-b192ceb9-fbb8-48f6-8fb0-1bfd941953ce.png)
+- #### In instances we can see ,the actual size of machine is 25gb.
+![step21](https://user-images.githubusercontent.com/103019032/169284257-1375c050-9ad6-49bb-9b03-9e7f2a09625d.PNG)
+- #### In EBS pages, click on volume,after that click on create volume,after modify volume.
+![step22](https://user-images.githubusercontent.com/103019032/169284607-2f5c4cb3-c617-4ed2-9b59-4ba1b5accbf6.PNG)
+- #### You can select volume type,and increase the size of volume.
+![step23](https://user-images.githubusercontent.com/103019032/169284954-d7562f08-dbe5-4073-8f0d-37169121e9ba.PNG)
+- #### Popup message show on screen and click on modify.
+![step24](https://user-images.githubusercontent.com/103019032/169285437-660e78b8-a66b-4f07-b4e7-266a29798b48.PNG)
+- #### You can see the volume size of machine.
+![step25](https://user-images.githubusercontent.com/103019032/169285610-1515968d-196e-466e-a961-7d6c311471af.PNG)
 
 
 
